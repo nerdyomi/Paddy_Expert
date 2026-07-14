@@ -1,0 +1,7 @@
+weaviate-client
+openai
+cohere
+python-dotenv
+tiktoken
+fastapi
+uvicorn[standard]
